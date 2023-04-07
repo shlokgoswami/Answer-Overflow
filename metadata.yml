@@ -1,0 +1,14 @@
+---
+:id: 126491199
+:submitters:
+- :name: Hrushi Patel
+  :email: hp2307@nyu.edu
+- :name: Shlok Goswami
+  :email: sg6862@nyu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-05-15 00:14:11.557521000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-05-14 17:14:11.557521000 Z
+:status: processed
+:score: 1.0
